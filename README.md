@@ -1,4 +1,4 @@
-# notes_offlinedb_mitchkoko
+# notes_offlinedb
 
 A new Flutter project.
 
