@@ -1,5 +1,5 @@
 # Notes Mobile Application
-Welcome to Notes Mobile Application! This is a simple Notes mobile application project that utilized the [Flutter](https://docs.flutter.dev/).
+Welcome to Notes Mobile Application! This is a simple Notes mobile application project that utilized the [Isar Database](https://isar.dev/).
 
 ## Table of Contents
 - [Introduction](#introduction)
